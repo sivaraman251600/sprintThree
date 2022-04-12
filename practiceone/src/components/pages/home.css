@@ -1,0 +1,12 @@
+label{
+    color: brown;
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    padding: 15px 15px;
+}
+
+button{
+    position: relative;
+    left: 80px;
+}
